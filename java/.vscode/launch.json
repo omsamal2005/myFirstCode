@@ -1,0 +1,203 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "eighteen",
+            "request": "launch",
+            "mainClass": "eighteen",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "eigth",
+            "request": "launch",
+            "mainClass": "eigth",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "eleven",
+            "request": "launch",
+            "mainClass": "eleven",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "fifith",
+            "request": "launch",
+            "mainClass": "fifith",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "fifteen",
+            "request": "launch",
+            "mainClass": "fifteen",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "fourteeen",
+            "request": "launch",
+            "mainClass": "fourteeen",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "lagna",
+            "request": "launch",
+            "mainClass": "lagna",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "nine",
+            "request": "launch",
+            "mainClass": "nine",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "samal",
+            "request": "launch",
+            "mainClass": "samal",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "seventh",
+            "request": "launch",
+            "mainClass": "seventh",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "sixteen",
+            "request": "launch",
+            "mainClass": "sixteen",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "sixth",
+            "request": "launch",
+            "mainClass": "sixth",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "ten",
+            "request": "launch",
+            "mainClass": "ten",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "thirteen",
+            "request": "launch",
+            "mainClass": "thirteen",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twelth",
+            "request": "launch",
+            "mainClass": "twelth",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twenty",
+            "request": "launch",
+            "mainClass": "twenty",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentyeight",
+            "request": "launch",
+            "mainClass": "twentyeight",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentyfive",
+            "request": "launch",
+            "mainClass": "twentyfive",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentyfour",
+            "request": "launch",
+            "mainClass": "twentyfour",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentyone",
+            "request": "launch",
+            "mainClass": "twentyone",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentyseven",
+            "request": "launch",
+            "mainClass": "twentyseven",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentysix",
+            "request": "launch",
+            "mainClass": "twentysix",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentythree",
+            "request": "launch",
+            "mainClass": "twentythree",
+            "projectName": "java_d998aac0"
+        },
+        {
+            "type": "java",
+            "name": "twentytwo",
+            "request": "launch",
+            "mainClass": "twentytwo",
+            "projectName": "java_d998aac0"
+        }
+    ]
+}
